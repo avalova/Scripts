@@ -1,0 +1,9 @@
+[t2]
+FileName1=t2.html
+URL1=http://localhost:1080/webtours/
+Total=1
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t2_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_2.xml

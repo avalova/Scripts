@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Pc\Desktop\XSET\LR\Scripts\UC01_Login
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\pc\desktop\xset\lr\scripts\uc01_login\\logfile.log
+c:\users\pc\desktop\xset\lr\scripts\uc01_login\\combined_UC01_Login.c
+c:\users\pc\desktop\xset\lr\scripts\uc01_login\\pre_cci.c

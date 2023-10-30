@@ -1,0 +1,1033 @@
+[API Trapper      (42b8: 998)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[API Trapper      (387c:42a0)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (387c:41dc)] ------------------------------------------------------------------------------------------
+[Network Analyzer (387c:41dc)] Load Network Traffic Analyzers:
+[Network Analyzer (387c:41dc)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (387c:41dc)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (387c:41dc)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (387c:41dc)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (387c:41dc)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (387c:41dc)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (387c:41dc)] ------------------------------------------------------------------------------------------
+[Network Analyzer (387c:3b7c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[API Trapper      (1238:4354)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (387c:41dc)] Establish Listener @ 127.0.0.1:23901
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 127.0.0.1:23901   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 6 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /webtours/"   
+[Network Analyzer (387c:3b7c)]   (Sid:  4) Client -> Server @ : 484 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  4) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /canonical.html"   
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:4040)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.192.30.2:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /webtours/header.html"   
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Client -> Server @ : 521 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (387c:3b7c)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (387c:3b7c)]   (Sid:  4) Client -> Server @ : 532 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Server -> Client : 1008 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /favicon.ico"   
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Client -> Server @ : 421 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:1728)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c: 978)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 64.233.165.95:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /webtours/images/hp_logo.png"   
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Client -> Server @ : 448 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  4) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  4) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /success.txt?ipv4"   
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c: 978)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /webtours/images/webtours.png"   
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Client -> Server @ : 449 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Server -> Client : 4487 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (387c:1b88)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c: f64)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:4040)] SSLAccept(ssl_id = 2166052664336 = 000001F852CCB410) Failed, ctx = 000001F852CE3030, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:4040)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:1ba8)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c: fec)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c: fec)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:1728)] SSLAccept(ssl_id = 2166053215536 = 000001F852D51D30) Failed, ctx = 000001F852D0A760, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:1728)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:1b88)] SSLAccept(ssl_id = 2166053417264 = 000001F852D83130) Failed, ctx = 000001F852D45660, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:1b88)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c: f64)] SSLAccept(ssl_id = 2166053697280 = 000001F852DC7700) Failed, ctx = 000001F852DC4DE0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c: f64)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:1ba8)] SSLAccept(ssl_id = 2166053796112 = 000001F852DDF910) Failed, ctx = 000001F852DF8A60, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:1ba8)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:1174)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (387c:1174)] SSLAccept(ssl_id = 2166054098624 = 000001F852E296C0) Failed, ctx = 000001F852E091E0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:1174)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Client -> Server @ : 573 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /WebTours/home.html"   
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Client -> Server @ : 569 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Server -> Client : 1659 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Server -> Client : 1751 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Client -> Server @ : 480 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Server -> Client : 976 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /canonical.html"   
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c: cec)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.223.169.2:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (387c:3b7c)] "GET /success.txt?ipv4"   
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c: cec)] SSLAccept(ssl_id = 2166054033152 = 000001F852E19700) Failed, ctx = 000001F852DF8A60, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c: cec)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /canonical.html"   
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:301c)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (387c:1b6c)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:2e04)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:3b7c)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:2e04)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:1b6c)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /success.txt?ipv4"   
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:301c)] SSLAccept(ssl_id = 2166054082432 = 000001F852E25780) Failed, ctx = 000001F852E8F970, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:301c)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:24f4)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:24f4)] SSLAccept(ssl_id = 2166054033152 = 000001F852E19700) Failed, ctx = 000001F852DF8A60, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:24f4)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /canonical.html"   
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /success.txt?ipv4"   
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Client -> Server @ : 803 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Server -> Client : 867 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Client -> Server @ : 699 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (387c:3b7c)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Client -> Server @ : 694 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Client -> Server @ : 619 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Client -> Server @ : 621 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (387c:3b7c)]   (Sid: 21) Client -> Server @ : 619 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Server -> Client : 1030 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid: 21) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Web Request      (387c:3b7c)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Client -> Server @ : 619 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Server -> Client : 1048 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:2dcc)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:2dcc)] SSLAccept(ssl_id = 2166054070112 = 000001F852E22760) Failed, ctx = 000001F852DC4DE0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c:2dcc)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /canonical.html"   
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Server -> Client : 297 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /success.txt?ipv4"   
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 21) Connection Terminated (by Server)
+[Network Analyzer (387c:3b7c)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (387c:3b7c)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c: e14)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c: e14)] SSLAccept(ssl_id = 2166054045472 = 000001F852E1C720) Failed, ctx = 000001F852DC4DE0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 6 bytes 
+[Net An. Error    (387c: e14)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /canonical.html"   
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /success.txt?ipv4"   
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 1_ticket list [Network Analyzer (387c:3b7c)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (387c:3b7c)]   (Sid: 27) Client -> Server @ : 736 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 27) Server -> Client : 814 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid: 27) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (387c:3b7c)]   (Sid: 27) Client -> Server @ : 721 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (387c:3b7c)]   (Sid: 26) Client -> Server @ : 704 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 26) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid: 26) Server -> Client : 975 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /WebTours/images/cancelreservation.gif"   
+[Network Analyzer (387c:3b7c)]   (Sid: 26) Client -> Server @ : 617 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 27) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:3b7c)]   (Sid: 27) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /WebTours/images/cancelallreservations.gif"   
+[Network Analyzer (387c:3b7c)]   (Sid: 28) Client -> Server @ : 621 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 28) Server -> Client : 1040 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid: 26) Server -> Client : 1128 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /WebTours/images/in_itinerary.gif"   
+[Network Analyzer (387c:3b7c)]   (Sid: 27) Client -> Server @ : 629 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (387c:3b7c)]   (Sid: 26) Client -> Server @ : 621 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 26) Server -> Client : 985 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid: 27) Server -> Client : 1030 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 1_ticket list [Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 28) Connection Terminated (by Server)
+[Network Analyzer (387c:3b7c)]   (Sid: 26) Connection Terminated (by Server)
+[Network Analyzer (387c:3b7c)]   (Sid: 27) Connection Terminated (by Server)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[User action                 ] StartTransactionEvent 1_delete_ticket [Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c: 8e0)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c: 8e0)] SSLAccept(ssl_id = 2166054051632 = 000001F852E1DF30) Failed, ctx = 000001F852DC4DE0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (387c: 8e0)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /canonical.html"   
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "GET /success.txt?ipv4"   
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 11) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:41dc)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (387c:41dc)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (387c:3b7c)] "POST /cgi-bin/itinerary.pl"   
+[Network Analyzer (387c:3b7c)]   (Sid: 30) Client -> Server @ : 970 bytes (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 30) Server -> Client : 4053 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid: 30) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 1_delete_ticket [Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid: 30) Connection Terminated (by Server)
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (387c:3b7c)]   (Sid:  2) Client -> Server @ : 2 bytes 

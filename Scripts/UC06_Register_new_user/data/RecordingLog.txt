@@ -1,0 +1,1348 @@
+[API Trapper      (3020: a38)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[API Trapper      (18f0:3204)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (18f0:324c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (18f0:324c)] Load Network Traffic Analyzers:
+[Network Analyzer (18f0:324c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (18f0:324c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (18f0:324c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (18f0:324c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (18f0:324c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (18f0:324c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (18f0:324c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (18f0:1950)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[API Trapper      ( 390:3034)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (18f0:324c)] Establish Listener @ 127.0.0.1:18271
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:18271   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /webtours/"   
+[Network Analyzer (18f0:1950)]   (Sid:  3) Client -> Server @ : 484 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  3) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /webtours/header.html"   
+[Network Analyzer (18f0:1950)]   (Sid:  4) Client -> Server @ : 521 bytes (Service=HTTP)
+[Web Request      (18f0:1950)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (18f0:1950)]   (Sid:  3) Client -> Server @ : 532 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  4) Server -> Client : 1008 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /favicon.ico"   
+[Network Analyzer (18f0:1950)]   (Sid:  4) Client -> Server @ : 421 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  4) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:226c)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:1950)]   (Sid:  3) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:1a4c)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /canonical.html"   
+[Network Analyzer (18f0:1950)]   (Sid:  7) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /webtours/images/hp_logo.png"   
+[Network Analyzer (18f0:1950)]   (Sid:  4) Client -> Server @ : 448 bytes (Service=HTTP)
+[Web Request      (18f0:1950)] "GET /webtours/images/webtours.png"   
+[Network Analyzer (18f0:1950)]   (Sid:  8) Client -> Server @ : 449 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  4) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  8) Server -> Client : 4487 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1a4c)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (18f0:1950)]   (Sid:  3) Client -> Server @ : 573 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  7) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /WebTours/home.html"   
+[Network Analyzer (18f0:1950)]   (Sid:  8) Client -> Server @ : 569 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  8) Server -> Client : 1659 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:226c)] SSLAccept(ssl_id = 1884823387040 = 000001B6D83A7BA0) Failed, ctx = 000001B6D83DA980, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:226c)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  3) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1364)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 35.84.103.12:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (18f0:1950)]   (Sid:  8) Client -> Server @ : 480 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  8) Server -> Client : 976 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /success.txt?ipv4"   
+[Network Analyzer (18f0:1950)]   (Sid: 14) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 14) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (18f0: a84)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (18f0:255c)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0: e0c)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0: e0c)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:2e50)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:1364)] SSLAccept(ssl_id = 1884823823616 = 000001B6D8412500) Failed, ctx = 000001B6D83DA980, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:1364)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1374)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /canonical.html"   
+[Network Analyzer (18f0:1950)]   (Sid:  7) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:2e50)] SSLAccept(ssl_id = 1884824595952 = 000001B6D84CEDF0) Failed, ctx = 000001B6D84F6570, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:2e50)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (18f0:255c)] SSLAccept(ssl_id = 1884824486864 = 000001B6D84B43D0) Failed, ctx = 000001B6D84B10B0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:255c)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Net An. Error    (18f0: a84)] SSLAccept(ssl_id = 1884824371008 = 000001B6D8497F40) Failed, ctx = 000001B6D8437960, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0: a84)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (18f0:1374)] SSLAccept(ssl_id = 1884824860480 = 000001B6D850F740) Failed, ctx = 000001B6D8527300, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:1374)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (18f0:1950)]   (Sid:  7) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:2f2c)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:2f2c)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 5 bytes 
+[Web Request      (18f0:1950)] "GET /success.txt?ipv4"   
+[Network Analyzer (18f0:1950)]   (Sid: 14) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 14) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:285c)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /canonical.html"   
+[Network Analyzer (18f0:1950)]   (Sid:  7) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (18f0:285c)] SSLAccept(ssl_id = 1884825410768 = 000001B6D8595CD0) Failed, ctx = 000001B6D84B10B0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Net An. Error    (18f0:285c)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (18f0:1950)]   (Sid:  7) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (18f0:1950)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /success.txt?ipv4"   
+[Network Analyzer (18f0:1950)]   (Sid: 14) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 14) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:2a6c)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:2a6c)] SSLAccept(ssl_id = 1884824178192 = 000001B6D8468E10) Failed, ctx = 000001B6D84B10B0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Net An. Error    (18f0:2a6c)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /canonical.html"   
+[Network Analyzer (18f0:1950)]   (Sid:  7) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  7) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /success.txt?ipv4"   
+[Network Analyzer (18f0:1950)]   (Sid: 14) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 14) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer (18f0:1950)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0: 950)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0: 950)] SSLAccept(ssl_id = 1884824298480 = 000001B6D84863F0) Failed, ctx = 000001B6D8527300, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Error    (18f0: 950)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /canonical.html"   
+[Network Analyzer (18f0:1950)]   (Sid:  7) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  7) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /success.txt?ipv4"   
+[Network Analyzer (18f0:1950)]   (Sid: 14) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 14) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 20) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent 1_Welcome_page [Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /webtours/"   
+[Network Analyzer (18f0:1950)]   (Sid: 21) Client -> Server @ : 612 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 21) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /webtours/header.html"   
+[Network Analyzer (18f0:1950)]   (Sid: 21) Client -> Server @ : 649 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 21) Server -> Client : 193 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (18f0:1950)]   (Sid: 22) Client -> Server @ : 560 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 22) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (18f0:1950)]   (Sid: 22) Client -> Server @ : 573 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /WebTours/home.html"   
+[Network Analyzer (18f0:1950)]   (Sid: 21) Client -> Server @ : 669 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 21) Server -> Client : 193 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 22) Server -> Client : 1742 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 1_Welcome_page [Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:2ff4)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:2ff4)] SSLAccept(ssl_id = 1884824857520 = 000001B6D850EBB0) Failed, ctx = 000001B6D8527300, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:2ff4)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /canonical.html"   
+[Network Analyzer (18f0:1950)]   (Sid:  7) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  7) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /success.txt?ipv4"   
+[Network Analyzer (18f0:1950)]   (Sid: 14) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 14) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 21) Connection Terminated (by Server)
+[Network Analyzer (18f0:1950)]   (Sid: 22) Connection Terminated (by Server)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 2_Sign_up [Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /cgi-bin/login.pl?username=&password=&getInfo=true"   
+[Network Analyzer (18f0:1950)]   (Sid: 24) Client -> Server @ : 607 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 24) Server -> Client : 2665 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /WebTours/profileValidate.js"   
+[Network Analyzer (18f0:1950)]   (Sid: 24) Client -> Server @ : 484 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 24) Server -> Client : 11601 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (18f0:1950)]   (Sid: 24) Client -> Server @ : 509 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 24) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 2_Sign_up [Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 24) Connection Terminated (by Server)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (18f0:2580)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:2580)] SSLAccept(ssl_id = 1884824178112 = 000001B6D8468DC0) Failed, ctx = 000001B6D8527300, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:2580)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /canonical.html"   
+[Network Analyzer (18f0:1950)]   (Sid:  7) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  7) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /success.txt?ipv4"   
+[Network Analyzer (18f0:1950)]   (Sid: 14) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 14) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 25) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent 3_Send_userdata [Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:2f3c)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:2960)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:2960)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:2f3c)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0: 8d8)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0: 8d8)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:2780)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /canonical.html"   
+[Network Analyzer (18f0:1950)]   (Sid:  7) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:2780)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  7) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:18a0)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:18a0)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /success.txt?ipv4"   
+[Network Analyzer (18f0:1950)]   (Sid: 14) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 14) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /canonical.html"   
+[Network Analyzer (18f0:1950)]   (Sid:  7) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  7) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /success.txt?ipv4"   
+[Network Analyzer (18f0:1950)]   (Sid: 14) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 14) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (18f0:1950)]   (Sid: 31) Client -> Server @ : 832 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 31) Server -> Client : 1439 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid: 31) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 3_Send_userdata [Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 5 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 34.117.65.55:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:2238)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:2238)] SSLAccept(ssl_id = 1884823619216 = 000001B6D83E0690) Failed, ctx = 000001B6D8527300, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (18f0:2238)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /canonical.html"   
+[Network Analyzer (18f0:1950)]   (Sid:  7) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  7) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /success.txt?ipv4"   
+[Network Analyzer (18f0:1950)]   (Sid: 14) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 14) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 32) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent 4_continuie [Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /cgi-bin/welcome.pl?page=menus"   
+[Network Analyzer (18f0:1950)]   (Sid: 33) Client -> Server @ : 692 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 33) Server -> Client : 819 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid: 33) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (18f0:1950)]   (Sid: 33) Client -> Server @ : 688 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (18f0:1950)]   (Sid: 34) Client -> Server @ : 683 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 34) Server -> Client : 1153 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid: 34) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 33) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid: 33) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (18f0:1950)]   (Sid: 33) Client -> Server @ : 595 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (18f0:1950)]   (Sid: 34) Client -> Server @ : 597 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 34) Server -> Client : 1030 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:1950)]   (Sid: 33) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (18f0:1950)]   (Sid: 35) Client -> Server @ : 595 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 35) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      (18f0:1950)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (18f0:1950)]   (Sid: 33) Client -> Server @ : 595 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 33) Server -> Client : 1048 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 4_continuie [Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 34) Connection Terminated (by Server)
+[Network Analyzer (18f0:1950)]   (Sid: 35) Connection Terminated (by Server)
+[Network Analyzer (18f0:1950)]   (Sid: 33) Connection Terminated (by Server)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 36) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent 5_sign_off [Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (18f0:1950)]   (Sid: 37) Client -> Server @ : 707 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 37) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid: 37) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (18f0:1950)]   (Sid: 37) Client -> Server @ : 570 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:324c)] Address lookup for DESKTOP-GOVB536 = 192.168.1.77
+[Network Analyzer (18f0:324c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (18f0:1950)] "GET /WebTours/home.html"   
+[Network Analyzer (18f0:1950)]   (Sid: 38) Client -> Server @ : 666 bytes (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 38) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid: 37) Server -> Client : 1750 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid: 37) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 5_sign_off [Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (18f0:1950)]   (Sid:  2) Client -> Server @ : 2 bytes 

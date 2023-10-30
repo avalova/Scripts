@@ -1,0 +1,9 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2023/10/25 08:01:17
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2023/10/25 08:03:37
+StartRecordingIsDst_2=0
+[Security]
+UsingPersistForAuthentication=1
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Pc\Desktop\XSET\LR\Scripts\UC02_Find_flight
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\pc\desktop\xset\lr\scripts\uc02_find_flight\\logfile.log
+c:\users\pc\desktop\xset\lr\scripts\uc02_find_flight\\combined_UC02_Find_flight.c
+c:\users\pc\desktop\xset\lr\scripts\uc02_find_flight\\pre_cci.c

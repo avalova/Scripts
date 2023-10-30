@@ -1,0 +1,72 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: webtours_2",
+                "infFile": "t1.inf",
+                "time": 1698674966856
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: header.html_2",
+                "infFile": "t2.inf",
+                "time": 1698674966933
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: welcome.pl_2",
+                "infFile": "t3.inf",
+                "time": 1698674967081
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t7.inf",
+                "time": 1698674967551
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t10.inf",
+                "time": 1698674968054
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: home.html_2",
+                "infFile": "t11.inf",
+                "time": 1698674968113
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: nav.pl_3",
+                "infFile": "t12.inf",
+                "time": 1698674968235
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_WelcomePage",
+                "rawStartTime": 1698674966666,
+                "rawEndTime": 1698674967314,
+                "thinkTime": 0.0,
+                "wastedTime": 0.20405173301696778
+            },
+            {
+                "transactionName": "2_Login",
+                "rawStartTime": 1698674967345,
+                "rawEndTime": 1698674967839,
+                "thinkTime": 0.0,
+                "wastedTime": 0.02340221405029297
+            },
+            {
+                "transactionName": "3_Sign_off",
+                "rawStartTime": 1698674967855,
+                "rawEndTime": 1698674968252,
+                "thinkTime": 0.0,
+                "wastedTime": 0.020212650299072267
+            }
+        ]
+    }
+]

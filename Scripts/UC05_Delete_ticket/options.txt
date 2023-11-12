@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\Pc\Desktop\XSET\LR\Scripts\UC05_Delete_ticket
+-IC:\Users\Pc\Desktop\XSET\LR1\Scripts\Scripts\UC05_Delete_ticket
 -IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\pc\desktop\xset\lr\scripts\uc05_delete_ticket\\logfile.log
-c:\users\pc\desktop\xset\lr\scripts\uc05_delete_ticket\\combined_UC05_Delete_ticket.c
-c:\users\pc\desktop\xset\lr\scripts\uc05_delete_ticket\\pre_cci.c
+-ec:\users\pc\desktop\xset\lr1\scripts\scripts\uc05_delete_ticket\\logfile.log
+c:\users\pc\desktop\xset\lr1\scripts\scripts\uc05_delete_ticket\\combined_UC05_Delete_ticket.c
+c:\users\pc\desktop\xset\lr1\scripts\scripts\uc05_delete_ticket\\pre_cci.c

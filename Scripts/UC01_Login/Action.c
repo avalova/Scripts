@@ -8,7 +8,7 @@ Action()
 	web_add_header("Sec-Fetch-Site", 
 		"none");
 
-	lr_think_time(4);
+	lr_think_time(5);
 
 	web_url("webtours_2", 
 		"URL=http://{host}/webtours/", 
@@ -82,14 +82,11 @@ Action()
 		LAST);
 
 	lr_start_transaction("2_Login");
-
-	web_add_header("Origin", 
-		"http://{host}");
-
+	
 	web_add_auto_header("Sec-Fetch-User", 
 		"?1");
 
-	lr_think_time(16);
+	lr_think_time(5);
 
 	web_submit_data("login.pl",
 		"Action=http://{host}/cgi-bin/login.pl",
@@ -164,6 +161,9 @@ Action()
 		LAST);
 
 	web_concurrent_end(NULL);
+		
+	web_add_header("Origin", 
+		"http://{host}");
 
 	lr_end_transaction("2_Login",LR_AUTO);
 	
@@ -181,7 +181,7 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(8);
+	lr_think_time(5);
 
 	web_url("SignOff Button", 
 		"URL=http://{host}/cgi-bin/welcome.pl?signOff=1", 

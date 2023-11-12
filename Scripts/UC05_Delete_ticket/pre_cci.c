@@ -1,4 +1,4 @@
-# 1 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c"
+# 1 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c"
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
  
  
@@ -968,7 +968,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c" 2
+# 1 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c" 2
 
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
 
@@ -1136,7 +1136,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c" 2
+# 2 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c" 2
 
 # 1 "globals.h" 1
 
@@ -2593,14 +2593,14 @@ void
  
 
 
-# 3 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c" 2
+# 3 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c" 2
+# 4 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c" 2
 
 # 1 "Action.c" 1
 Action()
@@ -2994,12 +2994,12 @@ Action()
 
 	return 0;
 }
-# 5 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c" 2
+# 5 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c" 2
+# 6 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc05_delete_ticket\\\\combined_UC05_Delete_ticket.c" 2
 

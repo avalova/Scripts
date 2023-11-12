@@ -1,0 +1,11 @@
+arrive;depart;seatPref;seatType;creditCard;expDate
+Frankfurt;Los Angeles;Aisle;First;353245;10/24
+London;Paris;Window;Business;345345;01/25
+Los Angeles;Portland;Aisle;First;78768;01/26
+Paris;San Francisco;None;Business;234233;01/27
+Portland;Seattle;Window;Coach;78967;01/28
+San Francisco;Frankfurt;Aisle;First;8907890878;01/29
+Seattle;London;None;Business;34532411;01/30
+Sydney;Los Angeles;Window;Coach;35345;01/31
+Zurich;Paris;Aisle;First;3453425;01/32
+Denver;London;None;Business;7685768;01/33

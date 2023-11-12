@@ -1,9 +1,9 @@
-Virtual User Script started at: 30.10.2023 19:53:53
+Virtual User Script started at: 10.11.2023 16:42:37
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (џэт 05 2021 19:27:22)  	[MsgId: MMSG-26983]
 Run mode: HTML  	[MsgId: MMSG-26993]
 Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
-Runtime Settings file: "C:\Users\Pc\Documents\VuGen\Scripts\UC02_Find_flight\\default.cfg"  	[MsgId: MMSG-27141]
+Runtime Settings file: "C:\Users\Pc\Desktop\XSET\LR1\Scripts\Scripts\UC02_Find_flight\\default.cfg"  	[MsgId: MMSG-27141]
 Ending action vuser_init.
 Running Vuser...
 Starting iteration 1.
@@ -37,7 +37,7 @@ Action.c(68): web_url("nav.pl_2") started  	[MsgId: MMSG-26355]
 Action.c(68): Registering web_url("nav.pl_2") was successful  	[MsgId: MMSG-26390]
 Action.c(77): web_concurrent_end started  	[MsgId: MMSG-26355]
 Action.c(77): web_concurrent_end was successful, 2851 body bytes, 554 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(79): Notify: Transaction "1_WelcomePage" ended with a "Pass" status (Duration: 0.6345 Wasted Time: 0.1870).
+Action.c(79): Notify: Transaction "1_WelcomePage" ended with a "Pass" status (Duration: 0,5699 Wasted Time: 0,2150).
 Action.c(81): web_reg_find started  	[MsgId: MMSG-26355]
 Action.c(81): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
 Action.c(85): Notify: Transaction "2_Login" started.
@@ -68,7 +68,7 @@ Action.c(159): web_url("signoff.gif") started  	[MsgId: MMSG-26355]
 Action.c(159): Registering web_url("signoff.gif") was successful  	[MsgId: MMSG-26390]
 Action.c(167): web_concurrent_end started  	[MsgId: MMSG-26355]
 Action.c(167): web_concurrent_end was successful, 2898 body bytes, 1190 header bytes  	[MsgId: MMSG-26386]
-Action.c(169): Notify: Transaction "2_Login" ended with a "Pass" status (Duration: 0,4437 Wasted Time: 0,0230).
+Action.c(169): Notify: Transaction "2_Login" ended with a "Pass" status (Duration: 0,4613 Wasted Time: 0,0222).
 Action.c(173): Notify: Transaction "3_FlightPage" started.
 Action.c(175): web_url("Search Flights Button") started  	[MsgId: MMSG-26355]
 Action.c(175): web_url("Search Flights Button") was successful, 616 body bytes, 215 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
@@ -90,7 +90,7 @@ Action.c(224): web_concurrent_end started  	[MsgId: MMSG-26355]
 Action.c(224): web_concurrent_end was successful, 1414 body bytes, 594 header bytes  	[MsgId: MMSG-26386]
 Action.c(226): web_url("button_next.gif") started  	[MsgId: MMSG-26355]
 Action.c(226): web_url("button_next.gif") was successful, 758 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
-Action.c(234): Notify: Transaction "3_FlightPage" ended with a "Pass" status (Duration: 0.4266 Wasted Time: 0.0296).
+Action.c(234): Notify: Transaction "3_FlightPage" ended with a "Pass" status (Duration: 0.4721 Wasted Time: 0.0303).
 Action.c(236): Notify: Transaction "4_Send_Flight_data" started.
 Action.c(238): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
 Action.c(238): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
@@ -101,11 +101,11 @@ Action.c(250): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
 Action.c(254): web_submit_data("reservations.pl_2") started  	[MsgId: MMSG-26355]
 Action.c(254): Registered web_reg_find successful for "Text=Flight departing from" (count=1)  	[MsgId: MMSG-26364]
 Action.c(254): web_submit_data("reservations.pl_2") was successful, 2441 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(279): Notify: Transaction "4_Send_Flight_data" ended with a "Pass" status (Duration: 0,1889 Wasted Time: 0,0074).
+Action.c(279): Notify: Transaction "4_Send_Flight_data" ended with a "Pass" status (Duration: 0,2232 Wasted Time: 0,0077).
 Action.c(283): Notify: Transaction "5_ChooseFlight" started.
 Action.c(285): web_submit_data("reservations.pl_3") started  	[MsgId: MMSG-26355]
 Action.c(285): web_submit_data("reservations.pl_3") was successful, 2744 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(302): Notify: Transaction "5_ChooseFlight" ended with a "Pass" status (Duration: 0.1573 Wasted Time: 0.0076).
+Action.c(302): Notify: Transaction "5_ChooseFlight" ended with a "Pass" status (Duration: 0,1582 Wasted Time: 0,0069).
 Action.c(306): Notify: Transaction "6_Sign_off" started.
 Action.c(308): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
 Action.c(308): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
@@ -124,8 +124,8 @@ Action.c(335): Retrieving data from cache for "http://localhost:1080/WebTours/ho
 Action.c(335): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
 Action.c(335): web_url("home.html_2") was successful, 0 body bytes, 0 header bytes  	[MsgId: MMSG-26386]
 Action.c(343): web_url("nav.pl_3") started  	[MsgId: MMSG-26355]
-Action.c(343): web_url("nav.pl_3") was successful, 1490 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(352): Notify: Transaction "6_Sign_off" ended with a "Pass" status (Duration: 0,3666 Wasted Time: 0,0208).
+Action.c(343): web_url("nav.pl_3") was successful, 1486 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(352): Notify: Transaction "6_Sign_off" ended with a "Pass" status (Duration: 0,4736 Wasted Time: 0,0213).
 Ending action Action.
 Ending iteration 1.
 Ending Vuser...

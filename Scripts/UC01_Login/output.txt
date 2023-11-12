@@ -1,9 +1,9 @@
-Virtual User Script started at: 30.10.2023 20:09:26
+Virtual User Script started at: 11.11.2023 20:29:54
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (џэт 05 2021 19:27:22)  	[MsgId: MMSG-26983]
 Run mode: HTML  	[MsgId: MMSG-26993]
 Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0  	[MsgId: MMSG-26988]
-Runtime Settings file: "C:\Users\Pc\Desktop\XSET\LR\Scripts\UC01_Login\\default.cfg"  	[MsgId: MMSG-27141]
+Runtime Settings file: "C:\Users\Pc\Desktop\XSET\LR1\Scripts\Scripts\UC01_Login\\default.cfg"  	[MsgId: MMSG-27141]
 Ending action vuser_init.
 Running Vuser...
 Starting iteration 1.
@@ -36,39 +36,39 @@ Action.c(57): Registering web_reg_save_param_attrib was successful  	[MsgId: MMS
 Action.c(67): web_url("nav.pl_2") started  	[MsgId: MMSG-26355]
 Action.c(67): Registering web_url("nav.pl_2") was successful  	[MsgId: MMSG-26390]
 Action.c(76): web_concurrent_end started  	[MsgId: MMSG-26355]
-Action.c(76): web_concurrent_end was successful, 2847 body bytes, 554 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(78): Notify: Transaction "1_WelcomePage" ended with a "Pass" status (Duration: 0.6483 Wasted Time: 0.2041).
+Action.c(76): web_concurrent_end was successful, 2845 body bytes, 554 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(78): Notify: Transaction "1_WelcomePage" ended with a "Pass" status (Duration: 0.7586 Wasted Time: 0.1964).
 Action.c(80): web_reg_find started  	[MsgId: MMSG-26355]
 Action.c(80): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
 Action.c(84): Notify: Transaction "2_Login" started.
-Action.c(86): web_add_header("Origin") started  	[MsgId: MMSG-26355]
-Action.c(86): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
-Action.c(89): web_add_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
-Action.c(89): web_add_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
-Action.c(94): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
-Action.c(94): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
-Action.c(94): web_submit_data("login.pl") was successful, 481 body bytes, 379 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(110): web_concurrent_start started  	[MsgId: MMSG-26355]
-Action.c(110): web_concurrent_start was successful  	[MsgId: MMSG-26392]
-Action.c(112): web_url("login.pl_2") started  	[MsgId: MMSG-26355]
-Action.c(112): Registering web_url("login.pl_2") was successful  	[MsgId: MMSG-26390]
-Action.c(121): web_url("nav.pl_3") started  	[MsgId: MMSG-26355]
-Action.c(121): Registering web_url("nav.pl_3") was successful  	[MsgId: MMSG-26390]
-Action.c(130): web_concurrent_end started  	[MsgId: MMSG-26355]
-Action.c(130): web_concurrent_end was successful, 2401 body bytes, 483 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(132): web_concurrent_start started  	[MsgId: MMSG-26355]
-Action.c(132): web_concurrent_start was successful  	[MsgId: MMSG-26392]
-Action.c(134): web_url("itinerary.gif") started  	[MsgId: MMSG-26355]
-Action.c(134): Registering web_url("itinerary.gif") was successful  	[MsgId: MMSG-26390]
-Action.c(142): web_url("flights.gif") started  	[MsgId: MMSG-26355]
-Action.c(142): Registering web_url("flights.gif") was successful  	[MsgId: MMSG-26390]
-Action.c(150): web_url("in_home.gif") started  	[MsgId: MMSG-26355]
-Action.c(150): Registering web_url("in_home.gif") was successful  	[MsgId: MMSG-26390]
-Action.c(158): web_url("signoff.gif") started  	[MsgId: MMSG-26355]
-Action.c(158): Registering web_url("signoff.gif") was successful  	[MsgId: MMSG-26390]
-Action.c(166): web_concurrent_end started  	[MsgId: MMSG-26355]
-Action.c(166): web_concurrent_end was successful, 2898 body bytes, 1190 header bytes  	[MsgId: MMSG-26386]
-Action.c(168): Notify: Transaction "2_Login" ended with a "Pass" status (Duration: 0,4943 Wasted Time: 0,0234).
+Action.c(86): web_add_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(86): web_add_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(91): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(91): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
+Action.c(91): web_submit_data("login.pl") was successful, 481 body bytes, 379 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(107): web_concurrent_start started  	[MsgId: MMSG-26355]
+Action.c(107): web_concurrent_start was successful  	[MsgId: MMSG-26392]
+Action.c(109): web_url("login.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(109): Registering web_url("login.pl_2") was successful  	[MsgId: MMSG-26390]
+Action.c(118): web_url("nav.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(118): Registering web_url("nav.pl_3") was successful  	[MsgId: MMSG-26390]
+Action.c(127): web_concurrent_end started  	[MsgId: MMSG-26355]
+Action.c(127): web_concurrent_end was successful, 2401 body bytes, 483 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(129): web_concurrent_start started  	[MsgId: MMSG-26355]
+Action.c(129): web_concurrent_start was successful  	[MsgId: MMSG-26392]
+Action.c(131): web_url("itinerary.gif") started  	[MsgId: MMSG-26355]
+Action.c(131): Registering web_url("itinerary.gif") was successful  	[MsgId: MMSG-26390]
+Action.c(139): web_url("flights.gif") started  	[MsgId: MMSG-26355]
+Action.c(139): Registering web_url("flights.gif") was successful  	[MsgId: MMSG-26390]
+Action.c(147): web_url("in_home.gif") started  	[MsgId: MMSG-26355]
+Action.c(147): Registering web_url("in_home.gif") was successful  	[MsgId: MMSG-26390]
+Action.c(155): web_url("signoff.gif") started  	[MsgId: MMSG-26355]
+Action.c(155): Registering web_url("signoff.gif") was successful  	[MsgId: MMSG-26390]
+Action.c(163): web_concurrent_end started  	[MsgId: MMSG-26355]
+Action.c(163): web_concurrent_end was successful, 2898 body bytes, 1190 header bytes  	[MsgId: MMSG-26386]
+Action.c(165): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(165): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(168): Notify: Transaction "2_Login" ended with a "Pass" status (Duration: 0.5046 Wasted Time: 0.0244).
 Action.c(170): Notify: Transaction "3_Sign_off" started.
 Action.c(172): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
 Action.c(172): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
@@ -87,8 +87,8 @@ Action.c(199): Retrieving data from cache for "http://localhost:1080/WebTours/ho
 Action.c(199): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
 Action.c(199): web_url("home.html_2") was successful, 0 body bytes, 0 header bytes  	[MsgId: MMSG-26386]
 Action.c(207): web_url("nav.pl_3") started  	[MsgId: MMSG-26355]
-Action.c(207): web_url("nav.pl_3") was successful, 1486 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(216): Notify: Transaction "3_Sign_off" ended with a "Pass" status (Duration: 0,3967 Wasted Time: 0,0202).
+Action.c(207): web_url("nav.pl_3") was successful, 1488 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(216): Notify: Transaction "3_Sign_off" ended with a "Pass" status (Duration: 0,5202 Wasted Time: 0,0250).
 Ending action Action.
 Ending iteration 1.
 Ending Vuser...

@@ -54,7 +54,7 @@ vuser_end=cci
 [TransactionsOrder]
 Order="1_WelcomePage__*delimiter*__2_Login__*delimiter*__4_Itinerary__*delimiter*__5_Sign_off"
 [StateManagement]
-LastReplayStatus=0
+LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1

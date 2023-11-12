@@ -170,7 +170,7 @@ Action()
 
 	lr_think_time(20);
 
-/*(	lr_start_transaction("3_FlightPage");
+(	lr_start_transaction("3_FlightPage");
 
 	web_url("Search Flights Button", 
 		"URL=http://{host}/cgi-bin/welcome.pl?page=search", 
@@ -232,7 +232,7 @@ Action()
 		LAST);
 
 	lr_end_transaction("3_FlightPage",LR_AUTO);
-*/
+	
 	lr_start_transaction("4_Itinerary");
 	
 	web_add_auto_header("Sec-Fetch-Dest", 
@@ -264,7 +264,13 @@ Action()
 		"Snapshot=t117.inf", 
 		"Mode=HTTP", 
 		LAST);
-
+	
+	web_reg_save_param("flightIDs",
+		"LB/IC=<input type=\"hidden\" name=\"flightID\" value=\"",
+		"RB/IC=\"",
+		"Ord=All",
+		LAST);
+		
 	web_url("itinerary.pl_2", 
 		"URL=http://{host}/cgi-bin/itinerary.pl", 
 		"Resource=0", 
@@ -274,13 +280,6 @@ Action()
 		"Mode=HTTP", 
 		LAST);
 	
-	web_reg_save_param_regexp(
-		"ParamName=flightIDs",
-		"RegExp=flightIDs1",
-		"NotFound=error",
-		SEARCH_FILTERS,
-		LAST);
-
 	lr_end_transaction("4_Itinerary",LR_AUTO);
 
 

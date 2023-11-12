@@ -1,4 +1,4 @@
-# 1 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c"
+# 1 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c"
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
  
  
@@ -968,7 +968,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c" 2
+# 1 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c" 2
 
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
 
@@ -1136,7 +1136,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c" 2
+# 2 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c" 2
 
 # 1 "globals.h" 1
 
@@ -2593,14 +2593,14 @@ void
  
 
 
-# 3 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c" 2
+# 3 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c" 2
+# 4 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c" 2
 
 # 1 "Action.c" 1
 Action()
@@ -2808,7 +2808,13 @@ Action()
 		"Snapshot=t117.inf", 
 		"Mode=HTTP", 
 		"LAST");
-
+	
+	web_reg_save_param("flightIDs",
+		"LB/IC=<input type=\"hidden\" name=\"flightID\" value=\"",
+		"RB/IC=\"",
+		"Ord=All",
+		"LAST");
+		
 	web_url("itinerary.pl_2", 
 		"URL=http://{host}/cgi-bin/itinerary.pl", 
 		"Resource=0", 
@@ -2818,13 +2824,6 @@ Action()
 		"Mode=HTTP", 
 		"LAST");
 	
-	web_reg_save_param_regexp(
-		"ParamName=flightIDs",
-		"RegExp=flightIDs1",
-		"NotFound=error",
-		"SEARCH_FILTERS",
-		"LAST");
-
 	lr_end_transaction("4_Itinerary",2);
 
 
@@ -2878,12 +2877,12 @@ Action()
 
 	return 0;
 }
-# 5 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c" 2
+# 5 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c" 2
+# 6 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc04_itinerary\\\\combined_UC04_Itinerary.c" 2
 

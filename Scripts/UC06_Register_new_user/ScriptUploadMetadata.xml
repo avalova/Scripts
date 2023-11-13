@@ -15,6 +15,8 @@
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="combined_UC06_Register_new_user.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="120001236440.idx" Filter="1" />
+    <FileEntry Name="194965201440.idx" Filter="1" />
     <FileEntry Name="97940006440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -24,6 +26,11 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvAqK.503.log" Filter="1" />
+    <FileEntry Name="mdrvFIy.399.log" Filter="1" />
+    <FileEntry Name="mdrvM2N.699.log" Filter="1" />
+    <FileEntry Name="mdrvVao.655.log" Filter="1" />
+    <FileEntry Name="mdrvZ81.541.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="NewParam.dat" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />

@@ -1,0 +1,122 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP92",
+                "stepName": "Url: webtours_2",
+                "infFile": "t1.inf",
+                "time": 1699782832129
+            },
+            {
+                "stepId": "STEP93",
+                "stepName": "Url: header.html_2",
+                "infFile": "t2.inf",
+                "time": 1699782832212
+            },
+            {
+                "stepId": "STEP94",
+                "stepName": "Url: welcome.pl_2",
+                "infFile": "t3.inf",
+                "time": 1699782832309
+            },
+            {
+                "stepId": "STEP95",
+                "stepName": "Url: home.html_2",
+                "infFile": "t4.inf",
+                "time": 1699782832369
+            },
+            {
+                "stepId": "STEP96",
+                "stepName": "Url: nav.pl_2",
+                "infFile": "t5.inf",
+                "time": 1699782832546
+            },
+            {
+                "stepId": "STEP97",
+                "stepName": "Url: login.pl",
+                "infFile": "t6.inf",
+                "time": 1699782837750
+            },
+            {
+                "stepId": "STEP98",
+                "stepName": "Submit Data: login.pl_2",
+                "infFile": "t7.inf",
+                "time": 1699782843238
+            },
+            {
+                "stepId": "STEP99",
+                "stepName": "Url: button_next.gif_2",
+                "infFile": "t8.inf",
+                "time": 1699782848433
+            },
+            {
+                "stepId": "STEP100",
+                "stepName": "Url: login.pl_3",
+                "infFile": "t9.inf",
+                "time": 1699782848624
+            },
+            {
+                "stepId": "STEP101",
+                "stepName": "Url: nav.pl_3",
+                "infFile": "t10.inf",
+                "time": 1699782848814
+            },
+            {
+                "stepId": "STEP102",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t11.inf",
+                "time": 1699782854368
+            },
+            {
+                "stepId": "STEP103",
+                "stepName": "Url: home.html_3",
+                "infFile": "t12.inf",
+                "time": 1699782854423
+            },
+            {
+                "stepId": "STEP104",
+                "stepName": "Url: nav.pl_4",
+                "infFile": "t13.inf",
+                "time": 1699782854611
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_Welcome_page",
+                "rawStartTime": 1699782826958,
+                "rawEndTime": 1699782832549,
+                "thinkTime": 5.005595,
+                "wastedTime": 0.20212030410766602
+            },
+            {
+                "transactionName": "2_Sign_up",
+                "rawStartTime": 1699782832565,
+                "rawEndTime": 1699782837936,
+                "thinkTime": 5.009348,
+                "wastedTime": 0.12417078018188477
+            },
+            {
+                "transactionName": "3_Send_userdata",
+                "rawStartTime": 1699782837952,
+                "rawEndTime": 1699782843249,
+                "thinkTime": 5.000632,
+                "wastedTime": 0.05176973342895508
+            },
+            {
+                "transactionName": "4_continuie",
+                "rawStartTime": 1699782848283,
+                "rawEndTime": 1699782849072,
+                "thinkTime": 0.0,
+                "wastedTime": 0.2766129970550537
+            },
+            {
+                "transactionName": "5_sign_off",
+                "rawStartTime": 1699782849088,
+                "rawEndTime": 1699782854624,
+                "thinkTime": 4.999725,
+                "wastedTime": 0.12533879280090333
+            }
+        ]
+    }
+]

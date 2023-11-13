@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\Pc\Desktop\XSET\LR\Scripts\UC06_Register_new_user
+-IC:\Users\Pc\Desktop\XSET\LR1\Scripts\Scripts\UC06_Register_new_user
 -IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\pc\desktop\xset\lr\scripts\uc06_register_new_user\\logfile.log
-c:\users\pc\desktop\xset\lr\scripts\uc06_register_new_user\\combined_UC06_Register_new_user.c
-c:\users\pc\desktop\xset\lr\scripts\uc06_register_new_user\\pre_cci.c
+-ec:\users\pc\desktop\xset\lr1\scripts\scripts\uc06_register_new_user\\logfile.log
+c:\users\pc\desktop\xset\lr1\scripts\scripts\uc06_register_new_user\\combined_UC06_Register_new_user.c
+c:\users\pc\desktop\xset\lr1\scripts\scripts\uc06_register_new_user\\pre_cci.c

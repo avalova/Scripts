@@ -1,4 +1,4 @@
-# 1 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c"
+# 1 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c"
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
  
  
@@ -968,7 +968,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c" 2
+# 1 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c" 2
 
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
 
@@ -1136,7 +1136,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c" 2
+# 2 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c" 2
 
 # 1 "globals.h" 1
 
@@ -2593,14 +2593,14 @@ void
  
 
 
-# 3 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c" 2
+# 3 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c" 2
+# 4 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c" 2
 
 # 1 "Action.c" 1
 Action()
@@ -2622,7 +2622,7 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(6);
+	lr_think_time(5);
 
 	web_url("webtours_2", 
 		"URL=http://{host}/webtours/", 
@@ -2679,7 +2679,7 @@ Action()
 	web_add_header("Sec-Fetch-User", 
 		"?1");
 
-	lr_think_time(13);
+	lr_think_time(5);
 
 	web_url("login.pl", 
 		"URL=http://{host}/cgi-bin/login.pl?username=&password=&getInfo=true", 
@@ -2736,7 +2736,7 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(4);	
+	lr_think_time(5);	
 
 	lr_save_string(lr_eval_string("user{unNum}name"),"username" );
 	
@@ -2763,10 +2763,11 @@ Action()
 		"Name=register.x", "Value=62", "ENDITEM", 
 		"Name=register.y", "Value=8", "ENDITEM", 
 		"LAST");
-
+ 
+# 181 "Action.c"
 	lr_end_transaction("3_Send_userdata",2);
 
-	lr_think_time(26);
+	lr_think_time(5);
 
 	lr_start_transaction("4_continuie");
 
@@ -2855,7 +2856,7 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(19);
+	lr_think_time(5);
 
 	web_url("SignOff Button", 
 		"URL=http://{host}/cgi-bin/welcome.pl?signOff=1", 
@@ -2887,12 +2888,12 @@ Action()
 
 	return 0;
 }
-# 5 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c" 2
+# 5 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "c:\\users\\pc\\desktop\\xset\\lr\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c" 2
+# 6 "c:\\users\\pc\\desktop\\xset\\lr1\\scripts\\scripts\\uc06_register_new_user\\\\combined_UC06_Register_new_user.c" 2
 

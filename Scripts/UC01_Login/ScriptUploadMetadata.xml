@@ -28,6 +28,8 @@
     <FileEntry Name="host.dat" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv3yB.149.log" Filter="1" />
+    <FileEntry Name="mdrvguk.399.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="NewParam(1).dat" Filter="1" />
     <FileEntry Name="NewParam.dat" Filter="1" />

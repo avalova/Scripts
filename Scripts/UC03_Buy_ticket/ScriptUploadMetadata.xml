@@ -30,6 +30,10 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv6cl.125.log" Filter="1" />
+    <FileEntry Name="mdrvaY1.489.log" Filter="1" />
+    <FileEntry Name="mdrvJ5D.791.log" Filter="1" />
+    <FileEntry Name="mdrvS1i.227.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="NewParam_1.dat" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />

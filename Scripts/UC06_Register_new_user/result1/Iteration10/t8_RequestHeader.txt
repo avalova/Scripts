@@ -1,0 +1,15 @@
+GET /cgi-bin/welcome.pl?page=menus HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/login.pl
+Sec-Fetch-Dest: frame
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1699782962; MTUserInfo=firstName&&address2&address&username&user4308name&hash&69&lastName&&address1&address&creditCard&&expDate&
+

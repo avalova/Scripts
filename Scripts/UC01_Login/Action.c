@@ -1,6 +1,6 @@
 Action()
 {	
-	lr_start_transaction("1_WelcomePage");
+	lr_start_transaction("UC01_WelcomePage");
 
 	web_add_header("Sec-Fetch-Dest", 
 		"document");
@@ -75,13 +75,13 @@ Action()
 
 	web_concurrent_end(NULL);
 
-	lr_end_transaction("1_WelcomePage",LR_AUTO);
+	lr_end_transaction("UC01_WelcomePage",LR_AUTO);
 
 	web_reg_find("Fail=NotFound",
 		"Text=User password was correct",
 		LAST);
 
-	lr_start_transaction("2_Login");
+	lr_start_transaction("UC01_Login");
 	
 	web_add_auto_header("Sec-Fetch-User", 
 		"?1");
@@ -165,9 +165,9 @@ Action()
 	web_add_header("Origin", 
 		"http://{host}");
 
-	lr_end_transaction("2_Login",LR_AUTO);
+	lr_end_transaction("UC01_Login",LR_AUTO);
 	
-	lr_start_transaction("3_Sign_off");
+	lr_start_transaction("UC01_Logout");
 
 	web_add_auto_header("Sec-Fetch-Dest", 
 		"frame");
@@ -213,7 +213,7 @@ Action()
 		"Mode=HTTP", 
 		LAST);
 
-	lr_end_transaction("3_Sign_off",LR_AUTO);
+	lr_end_transaction("UC01_Logout",LR_AUTO);
 
 	return 0;
 }

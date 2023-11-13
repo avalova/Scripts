@@ -1,0 +1,27 @@
+Start auto log messages stack - Iteration 68.	[MsgId: MMSG-10545]
+Action.c(246): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(246): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(249): web_url("Itinerary Button_2") started  	[MsgId: MMSG-26355]
+Action.c(249): web_url("Itinerary Button_2") was successful, 591 body bytes, 215 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(258): web_url("nav.pl_4") started  	[MsgId: MMSG-26355]
+Action.c(258): web_url("nav.pl_4") was successful, 1482 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(273): web_url("itinerary.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(273): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 245.	[MsgId: MMSG-10545]
+Action.c(150): web_url("in_home.gif") started  	[MsgId: MMSG-26355]
+Action.c(150): Registering web_url("in_home.gif") was successful  	[MsgId: MMSG-26390]
+Action.c(158): web_url("signoff.gif") started  	[MsgId: MMSG-26355]
+Action.c(158): Registering web_url("signoff.gif") was successful  	[MsgId: MMSG-26390]
+Action.c(166): web_concurrent_end started  	[MsgId: MMSG-26355]
+Action.c(166): web_concurrent_end was successful, 2898 body bytes, 1190 header bytes  	[MsgId: MMSG-26386]
+Action.c(168): Notify: Transaction "UC04_Login" ended with a "Pass" status (Duration: 5,4963 Think Time: 5,0609 Wasted Time: 0,0000).	[MsgId: MMSG-16870]
+Action.c(170): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+Action.c(172): Notify: Transaction "UC04_FlightPage" started.	[MsgId: MMSG-16999]
+Action.c(174): web_url("Search Flights Button") started  	[MsgId: MMSG-26355]
+Action.c(174): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://localhost:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

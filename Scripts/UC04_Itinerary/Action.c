@@ -1,7 +1,6 @@
 Action()
-{
-	
-	lr_start_transaction("1_WelcomePage");
+{	
+	lr_start_transaction("UC04_WelcomePage");
 
 	web_add_header("Sec-Fetch-Dest", 
 		"document");
@@ -9,7 +8,7 @@ Action()
 	web_add_header("Sec-Fetch-Site", 
 		"none");
 
-	lr_think_time(4);
+	lr_think_time(5);
 
 	web_url("webtours_2", 
 		"URL=http://{host}/webtours/", 
@@ -76,13 +75,13 @@ Action()
 
 	web_concurrent_end(NULL);
 
-	lr_end_transaction("1_WelcomePage",LR_AUTO);
+	lr_end_transaction("UC04_WelcomePage",LR_AUTO);
 
 	web_reg_find("Fail=NotFound",
 		"Text=User password was correct",
 		LAST);
 
-	lr_start_transaction("2_Login");
+	lr_start_transaction("UC04_Login");
 
 	web_add_header("Origin", 
 		"http://{host}");
@@ -90,7 +89,7 @@ Action()
 	web_add_auto_header("Sec-Fetch-User", 
 		"?1");
 
-	lr_think_time(16);
+	lr_think_time(5);
 
 	web_submit_data("login.pl",
 		"Action=http://{host}/cgi-bin/login.pl",
@@ -166,11 +165,11 @@ Action()
 
 	web_concurrent_end(NULL);
 
-	lr_end_transaction("2_Login",LR_AUTO);
+	lr_end_transaction("UC04_Login",LR_AUTO);
 
-	lr_think_time(20);
+	lr_think_time(5);
 
-(	lr_start_transaction("3_FlightPage");
+	lr_start_transaction("UC04_FlightPage");
 
 	web_url("Search Flights Button", 
 		"URL=http://{host}/cgi-bin/welcome.pl?page=search", 
@@ -231,9 +230,9 @@ Action()
 		"Snapshot=t26.inf", 
 		LAST);
 
-	lr_end_transaction("3_FlightPage",LR_AUTO);
+	lr_end_transaction("UC04_FlightPage",LR_AUTO);
 	
-	lr_start_transaction("4_Itinerary");
+	lr_start_transaction("UC04_Itinerary");
 	
 	web_add_auto_header("Sec-Fetch-Dest", 
 		"frame");
@@ -265,12 +264,12 @@ Action()
 		"Mode=HTTP", 
 		LAST);
 	
-	web_reg_save_param("flightIDs",
+/*	web_reg_save_param("flightIDs",
 		"LB/IC=<input type=\"hidden\" name=\"flightID\" value=\"",
 		"RB/IC=\"",
 		"Ord=All",
 		LAST);
-		
+*/		
 	web_url("itinerary.pl_2", 
 		"URL=http://{host}/cgi-bin/itinerary.pl", 
 		"Resource=0", 
@@ -280,10 +279,10 @@ Action()
 		"Mode=HTTP", 
 		LAST);
 	
-	lr_end_transaction("4_Itinerary",LR_AUTO);
+	lr_end_transaction("UC04_Itinerary",LR_AUTO);
 
 
-	lr_start_transaction("5_Sign_off");
+	lr_start_transaction("UC04_Logout");
 
 	web_add_auto_header("Sec-Fetch-Dest", 
 		"frame");
@@ -297,7 +296,7 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(8);
+	lr_think_time(5);
 
 	web_url("SignOff Button", 
 		"URL=http://{host}/cgi-bin/welcome.pl?signOff=1", 
@@ -329,7 +328,7 @@ Action()
 		"Mode=HTTP", 
 		LAST);
 
-	lr_end_transaction("5_Sign_off",LR_AUTO);
+	lr_end_transaction("UC04_Logout",LR_AUTO);
 
 	return 0;
 }

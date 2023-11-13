@@ -1,3 +1,2 @@
-"1=on&flightID=0-8481184318-&#10;&flightID=0-177703828913-00&flightID=0-254626905836-00&flightI"
-"D=0-331549982760-00&flightID=0-3-00&removeFlights.x=65&removeFlights.y=8&.cgifields=1&.cgifiel"
-"ds=2&.cgifields=3&.cgifields=4&.cgifields=5"
+"1=on&flightID=120196682-801-BP&flightID=120196682-1571-BP&flightID=120196682-2340-BP&removeFli"
+"ghts.x=65&removeFlights.y=8&.cgifields=1&.cgifields=2&.cgifields=3"

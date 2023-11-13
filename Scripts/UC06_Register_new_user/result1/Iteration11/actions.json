@@ -1,0 +1,66 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP131",
+                "stepName": "Url: webtours_2",
+                "infFile": "t1.inf",
+                "time": 1699783027105
+            },
+            {
+                "stepId": "STEP132",
+                "stepName": "Url: header.html_2",
+                "infFile": "t2.inf",
+                "time": 1699783027255
+            },
+            {
+                "stepId": "STEP133",
+                "stepName": "Url: welcome.pl_2",
+                "infFile": "t3.inf",
+                "time": 1699783027440
+            },
+            {
+                "stepId": "STEP134",
+                "stepName": "Url: home.html_2",
+                "infFile": "t4.inf",
+                "time": 1699783027522
+            },
+            {
+                "stepId": "STEP135",
+                "stepName": "Url: nav.pl_2",
+                "infFile": "t5.inf",
+                "time": 1699783027714
+            },
+            {
+                "stepId": "STEP136",
+                "stepName": "Url: login.pl",
+                "infFile": "t6.inf",
+                "time": 1699783032971
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_Welcome_page",
+                "rawStartTime": 1699783021845,
+                "rawEndTime": 1699783027721,
+                "thinkTime": 5.00701,
+                "wastedTime": 0.32048773765563967
+            },
+            {
+                "transactionName": "2_Sign_up",
+                "rawStartTime": 1699783027736,
+                "rawEndTime": 1699783033238,
+                "thinkTime": 5.012098,
+                "wastedTime": 0.17206788063049317
+            },
+            {
+                "transactionName": "3_Send_userdata",
+                "rawStartTime": 1699783033254,
+                "rawEndTime": 1699783037773,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            }
+        ]
+    }
+]

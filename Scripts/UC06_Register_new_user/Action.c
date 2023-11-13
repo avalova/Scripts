@@ -1,6 +1,6 @@
 Action()
 {
-	lr_start_transaction("1_Welcome_page");
+	lr_start_transaction("UC06_WelcomePage");
 
 	web_add_auto_header("Sec-Fetch-Dest", 
 		"document");
@@ -17,7 +17,7 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(6);
+	lr_think_time(5);
 
 	web_url("webtours_2", 
 		"URL=http://{host}/webtours/", 
@@ -67,14 +67,14 @@ Action()
 		"Mode=HTTP", 
 		LAST);
 
-	lr_end_transaction("1_Welcome_page",LR_AUTO);
+	lr_end_transaction("UC06_WelcomePage",LR_AUTO);
 
-	lr_start_transaction("2_Sign_up");
+	lr_start_transaction("UC06_Sign_up");
 
 	web_add_header("Sec-Fetch-User", 
 		"?1");
 
-	lr_think_time(13);
+	lr_think_time(5);
 
 	web_url("login.pl", 
 		"URL=http://{host}/cgi-bin/login.pl?username=&password=&getInfo=true", 
@@ -112,9 +112,9 @@ Action()
 		"Snapshot=t16.inf", 
 		LAST);
 
-	lr_end_transaction("2_Sign_up",LR_AUTO);
+	lr_end_transaction("UC06_Sign_up",LR_AUTO);
 
-	lr_start_transaction("3_Send_userdata");
+	lr_start_transaction("UC06_Send_userdata");
 	
 	web_add_header("Origin", 
 		"http://{host}");
@@ -131,7 +131,7 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(4);	
+	lr_think_time(5);	
 
 	lr_save_string(lr_eval_string("user{unNum}name"),"username" );
 	
@@ -158,12 +158,31 @@ Action()
 		"Name=register.x", "Value=62", ENDITEM, 
 		"Name=register.y", "Value=8", ENDITEM, 
 		LAST);
+/*	
+		web_submit_data("login.pl_2", 
+		"Action=http://{host}/cgi-bin/login.pl", 
+		"Method=POST", 
+		"RecContentType=text/html", 
+		"Referer=http://{host}/cgi-bin/login.pl?username=&password=&getInfo=true", 
+		"Snapshot=t17.inf", 
+		"Mode=HTTP", 
+		ITEMDATA, 
+		"Name=username", "Value={username1}", ENDITEM, 
+		"Name=password", "Value={password1}", ENDITEM, 
+		"Name=passwordConfirm", "Value={password1}", ENDITEM, 
+		"Name=firstName", "Value={firstName}", ENDITEM, 
+		"Name=lastName", "Value={lastName}", ENDITEM, 
+		"Name=address1", "Value={address1}", ENDITEM, 
+		"Name=address2", "Value={address2}", ENDITEM, 
+		"Name=register.x", "Value=62", ENDITEM, 
+		"Name=register.y", "Value=8", ENDITEM, 
+		LAST);
+*/
+	lr_end_transaction("UC06_Send_userdata",LR_AUTO);
 
-	lr_end_transaction("3_Send_userdata",LR_AUTO);
+	lr_think_time(5);
 
-	lr_think_time(26);
-
-	lr_start_transaction("4_continuie");
+	lr_start_transaction("UC06_continuie");
 
 	web_url("button_next.gif_2", 
 		"URL=http://{host}/cgi-bin/welcome.pl?page=menus", 
@@ -234,9 +253,9 @@ Action()
 		"Snapshot=t24.inf", 
 		LAST);
 
-	lr_end_transaction("4_continuie",LR_AUTO);
+	lr_end_transaction("UC06_continuie",LR_AUTO);
 
-	lr_start_transaction("5_sign_off");
+	lr_start_transaction("UC06_Logout");
 
 	web_add_auto_header("Sec-Fetch-Dest", 
 		"frame");
@@ -250,7 +269,7 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(19);
+	lr_think_time(5);
 
 	web_url("SignOff Button", 
 		"URL=http://{host}/cgi-bin/welcome.pl?signOff=1", 
@@ -278,7 +297,7 @@ Action()
 		"Mode=HTTP", 
 		LAST);
 
-	lr_end_transaction("5_sign_off",LR_AUTO);
+	lr_end_transaction("UC06_Logout",LR_AUTO);
 
 	return 0;
 }

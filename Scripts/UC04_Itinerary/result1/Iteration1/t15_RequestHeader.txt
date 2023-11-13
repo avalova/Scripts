@@ -1,5 +1,5 @@
-GET /cgi-bin/nav.pl?in=home HTTP/1.1
-Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=1
+GET /cgi-bin/itinerary.pl HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/welcome.pl?page=itinerary
 Sec-Fetch-Dest: frame
 Sec-Fetch-Site: same-origin
 Sec-Fetch-User: ?1
@@ -10,5 +10,5 @@ Accept-Encoding: gzip, deflate
 Accept: */*
 Connection: Keep-Alive
 Host: localhost:1080
-Cookie: MSO=SID&1699712258
+Cookie: MSO=SID&1699783576; MTUserInfo=firstName&Bryan&address2&5502&username&Bryan&hash&78&lastName&Peterson%0A&address1&user2street&creditCard&&expDate&%0A
 

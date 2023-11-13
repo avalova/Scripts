@@ -5,7 +5,7 @@ Action()
 	int i;
 	int randomID;
 	
-	lr_start_transaction("1_WelcomePage");
+	lr_start_transaction("UC05_WelcomePage");
 
 	web_add_header("Sec-Fetch-Dest", 
 		"document");
@@ -13,7 +13,7 @@ Action()
 	web_add_header("Sec-Fetch-Site", 
 		"none");
 
-	lr_think_time(4);
+	lr_think_time(5);
 
 	web_url("webtours_2", 
 		"URL=http://{host}/webtours/", 
@@ -80,13 +80,13 @@ Action()
 
 	web_concurrent_end(NULL);
 
-	lr_end_transaction("1_WelcomePage",LR_AUTO);
+	lr_end_transaction("UC05_WelcomePage",LR_AUTO);
 
 	web_reg_find("Fail=NotFound",
 		"Text=User password was correct",
 		LAST);
 
-	lr_start_transaction("2_Login");
+	lr_start_transaction("UC05_Login");
 
 	web_add_header("Origin", 
 		"http://{host}");
@@ -94,7 +94,7 @@ Action()
 	web_add_auto_header("Sec-Fetch-User", 
 		"?1");
 
-	lr_think_time(16);
+	lr_think_time(5);
 
 	web_submit_data("login.pl",
 		"Action=http://{host}/cgi-bin/login.pl",
@@ -170,11 +170,11 @@ Action()
 
 	web_concurrent_end(NULL);
 
-	lr_end_transaction("2_Login",LR_AUTO);
+	lr_end_transaction("UC05_Login",LR_AUTO);
 
-	lr_think_time(20);
+	lr_think_time(5);
 
-	lr_start_transaction("3_FlightPage");
+	lr_start_transaction("UC05_FlightPage");
 
 	web_url("Search Flights Button", 
 		"URL=http://{host}/cgi-bin/welcome.pl?page=search", 
@@ -235,9 +235,9 @@ Action()
 		"Snapshot=t26.inf", 
 		LAST);
 
-	lr_end_transaction("3_FlightPage",LR_AUTO);
+	lr_end_transaction("UC05_FlightPage",LR_AUTO);
 
-	lr_start_transaction("4_Itinerary");
+	lr_start_transaction("UC05_Itinerary");
 	
 	web_add_auto_header("Sec-Fetch-Dest", 
 		"frame");
@@ -284,9 +284,9 @@ Action()
 		"Mode=HTTP", 
 		LAST);
 	
-	lr_end_transaction("4_Itinerary",LR_AUTO);
+	lr_end_transaction("UC05_Itinerary",LR_AUTO);
 
-	lr_start_transaction("5_delete_ticket");
+	lr_start_transaction("UC05_Delete_ticket");
 
 	web_add_header("Origin", 
 		"http://{host}");
@@ -303,7 +303,7 @@ Action()
 	web_add_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(14);
+	lr_think_time(5);
 	
 	val_flightID = lr_paramarr_random ("flightIDs");
 	lr_message("FlightID is = %s", val_flightID);
@@ -337,9 +337,9 @@ Action()
 		"Body=1=on{request}&removeFlights.x=65&removeFlights.y=8{cgifields_list}",
 		LAST);
 
-	lr_end_transaction("5_delete_ticket",LR_AUTO);
+	lr_end_transaction("UC05_Delete_ticket",LR_AUTO);
 
-	lr_start_transaction("6_Sign_off");
+	lr_start_transaction("UC05_Logout");
 
 	web_add_auto_header("Sec-Fetch-Dest", 
 		"frame");
@@ -353,7 +353,7 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(8);
+	lr_think_time(5);
 
 	web_url("SignOff Button", 
 		"URL=http://{host}/cgi-bin/welcome.pl?signOff=1", 
@@ -385,7 +385,7 @@ Action()
 		"Mode=HTTP", 
 		LAST);
 
-	lr_end_transaction("6_Sign_off",LR_AUTO);
+	lr_end_transaction("UC05_Logout",LR_AUTO);
 
 	return 0;
 }

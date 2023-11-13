@@ -2613,7 +2613,7 @@ Action()
 	web_add_header("Sec-Fetch-Site", 
 		"none");
 
-	lr_think_time(4);
+	lr_think_time(5);
 
 	web_url("webtours_2", 
 		"URL=http://{host}/webtours/", 
@@ -2694,7 +2694,7 @@ Action()
 	web_add_auto_header("Sec-Fetch-User", 
 		"?1");
 
-	lr_think_time(16);
+	lr_think_time(5);
 
 	web_submit_data("login.pl",
 		"Action=http://{host}/cgi-bin/login.pl",
@@ -2772,7 +2772,7 @@ Action()
 
 	lr_end_transaction("2_Login",2);
 
-	lr_think_time(20);
+	lr_think_time(5);
 
 	lr_start_transaction("3_FlightPage");
 
@@ -2849,7 +2849,7 @@ Action()
 	web_add_auto_header("Origin",
 		"http://{host}");
 
-	lr_think_time(17);
+	lr_think_time(5);
 
 	web_reg_find("Fail=NotFound",
 		"Text=Flight departing from",
@@ -2882,7 +2882,7 @@ Action()
 
 	lr_end_transaction("4_Send_Flight_data",2);
 
-	lr_think_time(23);
+	lr_think_time(5);
 
 	lr_start_transaction("5_ChooseFlight");
 
@@ -2905,7 +2905,7 @@ Action()
 
 	lr_end_transaction("5_ChooseFlight",2);
 
-	lr_think_time(35);
+	lr_think_time(5);
 
 	lr_start_transaction("6_Payment");
 
@@ -3028,7 +3028,7 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(8);
+	lr_think_time(5);
 
 	web_url("SignOff Button", 
 		"URL=http://{host}/cgi-bin/welcome.pl?signOff=1", 

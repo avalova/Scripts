@@ -2604,8 +2604,7 @@ vuser_init()
 
 # 1 "Action.c" 1
 Action()
-{
-	
+{	
 	lr_start_transaction("1_WelcomePage");
 
 	web_add_header("Sec-Fetch-Dest", 
@@ -2614,7 +2613,7 @@ Action()
 	web_add_header("Sec-Fetch-Site", 
 		"none");
 
-	lr_think_time(4);
+	lr_think_time(5);
 
 	web_url("webtours_2", 
 		"URL=http://{host}/webtours/", 
@@ -2695,7 +2694,7 @@ Action()
 	web_add_auto_header("Sec-Fetch-User", 
 		"?1");
 
-	lr_think_time(16);
+	lr_think_time(5);
 
 	web_submit_data("login.pl",
 		"Action=http://{host}/cgi-bin/login.pl",
@@ -2773,10 +2772,71 @@ Action()
 
 	lr_end_transaction("2_Login",2);
 
-	lr_think_time(20);
+	lr_think_time(5);
 
- 
-# 236 "Action.c"
+	lr_start_transaction("3_FlightPage");
+
+	web_url("Search Flights Button", 
+		"URL=http://{host}/cgi-bin/welcome.pl?page=search", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://{host}/cgi-bin/nav.pl?page=menu&in=home", 
+		"Snapshot=t21.inf", 
+		"Mode=HTTP", 
+		"LAST");
+
+	web_concurrent_start(0);
+
+	web_url("nav.pl_4", 
+		"URL=http://{host}/cgi-bin/nav.pl?page=menu&in=flights", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://{host}/cgi-bin/welcome.pl?page=search", 
+		"Snapshot=t22.inf", 
+		"Mode=HTTP", 
+		"LAST");
+
+	web_url("reservations.pl", 
+		"URL=http://{host}/cgi-bin/reservations.pl?page=welcome", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://{host}/cgi-bin/welcome.pl?page=search", 
+		"Snapshot=t25.inf", 
+		"Mode=HTTP", 
+		"LAST");
+
+	web_concurrent_end(0);
+
+	web_concurrent_start(0);
+
+	web_url("home.gif", 
+		"URL=http://{host}/WebTours/images/home.gif", 
+		"Resource=1", 
+		"RecContentType=image/gif", 
+		"Referer=http://{host}/cgi-bin/nav.pl?page=menu&in=flights", 
+		"Snapshot=t23.inf", 
+		"LAST");
+
+	web_url("in_flights.gif", 
+		"URL=http://{host}/WebTours/images/in_flights.gif", 
+		"Resource=1", 
+		"RecContentType=image/gif", 
+		"Referer=http://{host}/cgi-bin/nav.pl?page=menu&in=flights", 
+		"Snapshot=t24.inf", 
+		"LAST");
+
+	web_concurrent_end(0);
+
+	web_url("button_next.gif", 
+		"URL=http://{host}/WebTours/images/button_next.gif", 
+		"Resource=1", 
+		"RecContentType=image/gif", 
+		"Referer=http://{host}/cgi-bin/reservations.pl?page=welcome", 
+		"Snapshot=t26.inf", 
+		"LAST");
+
+	lr_end_transaction("3_FlightPage",2);
+	
 	lr_start_transaction("4_Itinerary");
 	
 	web_add_auto_header("Sec-Fetch-Dest", 
@@ -2841,7 +2901,7 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(8);
+	lr_think_time(5);
 
 	web_url("SignOff Button", 
 		"URL=http://{host}/cgi-bin/welcome.pl?signOff=1", 
